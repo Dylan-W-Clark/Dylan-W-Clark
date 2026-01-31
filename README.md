@@ -1,4 +1,4 @@
-<h1>Hey, I'm Dylan! <br/><a <a href="https://www.linkedin.com/in/dylan-w-clark/">A Cybersecurity Engineer | Professional</a>
+<h1>Hey, I'm Dylan! <br/><a <a href="https://www.linkedin.com/in/dylan-w-clark/">A Cybersecurity Engineer | Professional | AI/ML Enthusiast</a>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
