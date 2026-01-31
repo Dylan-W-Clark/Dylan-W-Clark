@@ -20,10 +20,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dylan-w-clark | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="dylan-w-clark | TryHackMe" width="200px" src="https://tryhackme-badges.s3.amazonaws.com/DcWondeMan.png" alt="Your Image Badge" />][TryHackMe]
 
 [linkedin]: https://www.linkedin.com/in/dylan-w-clark/
-
+[TryHackMe]: https://tryhackme.com/p/DcWondeMan/
 <!--
 **Dylan-W-Clark/Dylan-W-Clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
