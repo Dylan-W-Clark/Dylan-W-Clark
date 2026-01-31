@@ -3,28 +3,10 @@
 <h2>💻 My Cybersecurity Projects:</h2>
 
 - <b>File Type Identifier</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Creating a File Type Identifier Using Magic Numbers](https://github.com/Dylan-W-Clark/File-Type-Identifier)
 
 <h2>👾 My AI/ML Projects:</h2>
                           
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>File Type Identifier</b>                          
-   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
  
 <h3> 🌐 Connect With Me:</h3>
 
