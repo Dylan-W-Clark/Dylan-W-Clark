@@ -4,6 +4,9 @@
 
 - <b>File Type Identifier</b>
   - [Creating a File Type Identifier Using Magic Numbers](https://github.com/Dylan-W-Clark/File-Type-Identifier)
+ 
+- <b>Python Keylogger</b>
+  - [Creating a keylogger using Python](https://github.com/Dylan-W-Clark/Python-Keylogger)
 
 <h2>👾 My AI/ML Projects:</h2>
                           
